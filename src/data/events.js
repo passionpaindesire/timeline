@@ -18,30 +18,86 @@ export const siteConfig = {
 export const events = [
   {
     id: 1,
-    date: "September 24, 2026",
-    title: "Something Important Is Happening",
-    description:
-      "A short description explaining what will happen on this date and why it matters.",
+    date: "Last Week September 2026",
+    title: "Tell Muneer Family",
+    description: "-",
   },
   {
     id: 2,
-    date: "October 10, 2026",
-    title: "Another Important Event",
-    description:
-      "A brief explanation of this milestone and what to expect when it arrives.",
+    date: "September – October 2026",
+    title: "Car + License",
+    description: "-",
   },
   {
     id: 3,
-    date: "November 3, 2026",
-    title: "A Third Milestone",
-    description:
-      "This marks a significant step forward. Something worth noting and preparing for.",
+    date: "Last Week October 2026",
+    title: "Tell Hania Fam + Muneer Apartment",
+    description: "-",
   },
   {
     id: 4,
-    date: "December 1, 2026",
-    title: "The Final Chapter",
-    description:
-      "Everything comes together here — the culmination of everything that came before it.",
+    date: "October – Mid November 2026",
+    title: "Meet Family Etc.",
+    description: "-",
+  },
+  {
+    id: 5,
+    date: "Mid November 2026",
+    title: "Sign Nikkah",
+    description: "-",
+  },
+  {
+    id: 6,
+    date: "Mid November – Last Week November 2026",
+    title: "Hania Move In + Plan Travels",
+    description: "-",
+  },
+  {
+    id: 7,
+    date: "Last Week November 2026",
+    title: "Travel (1 Month)",
+    description: "-",
+  },
+  {
+    id: 8,
+    date: "Mid February 2027",
+    title: "HPAT",
+    description: "-",
+  },
+  {
+    id: 9,
+    date: "March 2027",
+    title: "Muneer Citizenship?",
+    description: "-",
+  },
+  {
+    id: 10,
+    date: "April 2027",
+    title: "Italian Oral",
+    description: "-",
+  },
+  {
+    id: 11,
+    date: "June 2027",
+    title: "Leaving Certificate",
+    description: "-",
+  },
+  {
+    id: 12,
+    date: "Summer 2027",
+    title: "Wedding + Honeymoon",
+    description: "-",
+  },
+  {
+    id: 13,
+    date: "September 2027",
+    title: "Uni",
+    description: "-",
+  },
+  {
+    id: 14,
+    date: "December 2027",
+    title: "Paraguay Trip",
+    description: "-",
   },
 ];
