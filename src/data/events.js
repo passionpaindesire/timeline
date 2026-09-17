@@ -102,20 +102,26 @@ export const personalEvents = [
 export const studiesEvents = [
   {
     id: 1,
-    date: "September 2026",
-    title: "Start of Academic Year",
-    description: "New term begins. Set goals and get organised.",
+    date: "October 2026",
+    title: "Maths + S1",
+    description: "-",
   },
   {
     id: 2,
-    date: "February 2027",
-    title: "Mock Examinations",
-    description: "Practice run ahead of the final sitting.",
+    date: "November 2026",
+    title: "English + S2",
+    description: "-",
   },
   {
     id: 3,
-    date: "June 2027",
-    title: "Final Examinations",
-    description: "The real thing. All preparation comes together here.",
+    date: "December 2026",
+    title: "English + S3",
+    description: "-",
+  },
+  {
+    id: 4,
+    date: "January 2027",
+    title: "HPAT Mocks",
+    description: "-",
   },
 ];
