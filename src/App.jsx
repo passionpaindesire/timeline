@@ -1,5 +1,5 @@
 import SectionPanel from './components/SectionPanel.jsx';
-import { siteConfig, personalEvents, studiesEvents } from './data/events.js';
+import { siteConfig, personalEvents, studiesEvents, studiesAdminEvents } from './data/events.js';
 
 export default function App() {
   return (
@@ -31,6 +31,12 @@ export default function App() {
               title="Studies"
               accentColor="#7C5CFC"
               events={studiesEvents}
+            />
+            <SectionPanel
+              id="studies-admin"
+              title="Studies Admin"
+              accentColor="#FF8A4C"
+              events={studiesAdminEvents}
             />
           </div>
         </main>
