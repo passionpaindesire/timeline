@@ -102,33 +102,33 @@ export const personalEvents = [
 export const studiesAdminEvents = [
   {
     id: 1,
-    date: "September – October 2026",
-    title: "Setup & Document Prep",
-    description: "Locate Dyslexia Psychological Assessment Report. Parents download 2025 Statement of Liability from Revenue myAccount. Secure NUI Irish Exemption.",
+    date: "September to October 2026",
+    title: "Setup and Document Prep",
+    description: "Contact school Guidance Counsellor or Principal to arrange Educational Impact Statement (documenting 60 missed school days in 6th year). Arrange Consultant Psychiatrist report for DARE (must be within 3 years, DSM-5 diagnosis, signed and stamped, from specialist register). Parents download 2025 Statement of Liability from Revenue myAccount. Secure NUI Irish Exemption.",
   },
   {
     id: 2,
     date: "Early October 2026",
-    title: "RACE Application — SEC Deadline",
-    description: "Apply for exam accommodations (spelling/grammar waiver etc.) via SEC Candidate Self Service Portal. Email psychologist reports to entries@examinations.ie.",
+    title: "RACE Application: SEC Deadline",
+    description: "Apply for exam accommodations for depression/anxiety via SEC Candidate Self Service Portal. Check whether registering through old school or as external candidate. Email psychiatric or medical evidence to entries@examinations.ie.",
   },
   {
     id: 3,
     date: "5 November 2026",
-    title: "CAO Opens — Create Account",
+    title: "CAO Opens: Create Account",
     description: "Create account at CAO.ie and pay €30 early bird fee. Tick YES to HEAR and DARE boxes. Enter previous Leaving Cert exam number.",
   },
   {
     id: 4,
     date: "~21 November 2026",
     title: "RACE Deadline (SEC)",
-    description: "Final deadline to submit RACE application on the SEC CSSP portal at Examinations.ie.",
+    description: "Final deadline to submit RACE mental health accommodations application on the SEC CSSP portal at Examinations.ie.",
   },
   {
     id: 5,
     date: "December 2026",
     title: "SEC External Candidate Registration",
-    description: "Register as external/private candidate on Examinations.ie. Select 6–7 subjects (do not select Irish). Apply for RACE dyslexia accommodations on this portal.",
+    description: "Register as external/private candidate on Examinations.ie. Select 6 to 7 subjects (do not select Irish). Apply for RACE mental health accommodations on this portal.",
   },
   {
     id: 6,
@@ -139,8 +139,8 @@ export const studiesAdminEvents = [
   {
     id: 7,
     date: "1 February 2027",
-    title: "Initial CAO Course Deadline — 5:00 PM",
-    description: "Finalise initial course choices on CAO account. This is also the entry point for HEAR and DARE — must have ticked YES before this cutoff.",
+    title: "Initial CAO Course Deadline: 5:00 PM",
+    description: "Finalise initial course choices on CAO account. This is also the entry point for HEAR and DARE, must have ticked YES before this cutoff.",
   },
   {
     id: 8,
@@ -151,18 +151,18 @@ export const studiesAdminEvents = [
   {
     id: 9,
     date: "1 March 2027",
-    title: "Online HEAR & DARE Deadline — 5:00 PM",
-    description: "Complete online HEAR financial questionnaire wizard on CAO portal. Complete DARE Section A (personal statement on educational impact of dyslexia/depression).",
+    title: "Online HEAR and DARE Deadline: 5:00 PM",
+    description: "Complete online HEAR financial questionnaire wizard on CAO portal. Complete DARE Section A (personal statement on educational impact of depression/mental health condition).",
   },
   {
     id: 10,
     date: "10 March 2027",
-    title: "Physical Documents Postal Deadline — 5:00 PM",
-    description: "All physical documents must arrive at the CAO office in Galway: Dyslexia report, signed Educational Impact Statement (Section B), family 2025 tax documents.",
+    title: "Physical Documents Postal Deadline: 5:00 PM",
+    description: "All physical documents must arrive at the CAO office in Galway: Mother's 2025 Statement of Liability; proof of full-time enrolment for both siblings; Consultant Psychiatrist report for DARE Section C (within 3 years, DSM-5 diagnosis, signed and stamped, from specialist register); Educational Impact Statement Section B from school documenting 60 missed school days in 6th year; Medical Card with PPS number entered in HEAR Section 3.",
   },
   {
     id: 11,
-    date: "March – April 2027",
+    date: "March to April 2027",
     title: "Italian Oral Exam",
     description: "Travel to designated host secondary school to complete Leaving Cert Italian Oral with an external SEC examiner.",
   },
@@ -181,14 +181,14 @@ export const studiesAdminEvents = [
   {
     id: 14,
     date: "Early July 2027",
-    title: "HEAR & DARE Eligibility Notification",
+    title: "HEAR and DARE Eligibility Notification",
     description: "Check CAO portal for HEAR/DARE approval. Confirm NUI Irish Exemption has been updated on CAO profile.",
   },
   {
     id: 15,
     date: "Late August 2027",
-    title: "LC Results & CAO Round 1 Offers",
-    description: "Access final grades on SEC portal. CAO combines LC points + HPAT score and applies DARE/HEAR concession and Irish Exemption. UCD Medicine offer issues in Round 1 if adjusted cutoff is met.",
+    title: "LC Results and CAO Round 1 Offers",
+    description: "Access final grades on SEC portal. CAO combines LC points and HPAT score and applies DARE/HEAR concession and Irish Exemption. UCD Medicine offer issues in Round 1 if adjusted cutoff is met.",
   },
 ];
 
