@@ -3,19 +3,14 @@
 //  No other file needs to change.
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-// Hero section and page metadata.
 export const siteConfig = {
-  label: "Upcoming",                              // Small eyebrow label in the hero
-  title: "What's Ahead.",                         // Large hero headline
-  subtitle: "A curated sequence of upcoming events and milestones.",
-  sectionLabel: "Events",                         // Small label above the timeline
-  sectionHeading: "The Timeline",                 // Section heading
+  title: "What's Ahead.",
   footerText: "© 2026",
 };
 
-// Timeline events — add, remove, or reorder items here.
-// Each object appears on the timeline in the order listed.
-export const events = [
+// ─── Personal ───────────────────────────────────────────────────────
+// Add, remove or reorder objects to update the Personal timeline.
+export const personalEvents = [
   {
     id: 1,
     date: "Last Week September 2026",
@@ -99,5 +94,28 @@ export const events = [
     date: "December 2027",
     title: "Paraguay Trip",
     description: "-",
+  },
+];
+
+// ─── Studies ────────────────────────────────────────────────────────
+// Add, remove or reorder objects to update the Studies timeline.
+export const studiesEvents = [
+  {
+    id: 1,
+    date: "September 2026",
+    title: "Start of Academic Year",
+    description: "New term begins. Set goals and get organised.",
+  },
+  {
+    id: 2,
+    date: "February 2027",
+    title: "Mock Examinations",
+    description: "Practice run ahead of the final sitting.",
+  },
+  {
+    id: 3,
+    date: "June 2027",
+    title: "Final Examinations",
+    description: "The real thing. All preparation comes together here.",
   },
 ];
