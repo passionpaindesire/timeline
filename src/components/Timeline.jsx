@@ -10,13 +10,11 @@ export default function Timeline({ config, events }) {
         </h2>
       </header>
 
-      <div className="timeline-track">
-        <ol className="timeline-list" aria-label="Timeline of upcoming events">
-          {events.map((event, index) => (
-            <EventItem key={event.id} event={event} index={index} />
-          ))}
-        </ol>
-      </div>
+      <ol className="timeline-list" aria-label="Timeline of upcoming events">
+        {events.map((event, index) => (
+          <EventItem key={event.id} event={event} index={index} />
+        ))}
+      </ol>
     </section>
   );
 }
