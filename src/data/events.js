@@ -124,4 +124,34 @@ export const studiesEvents = [
     title: "HPAT Mocks",
     description: "-",
   },
+  {
+    id: 5,
+    date: "February 2027",
+    title: "Accounting + HPAT",
+    description: "-",
+  },
+  {
+    id: 6,
+    date: "March 2027",
+    title: "Italian",
+    description: "-",
+  },
+  {
+    id: 7,
+    date: "April 2027",
+    title: "Italian Oral + Phys Chem",
+    description: "-",
+  },
+  {
+    id: 8,
+    date: "May 2027",
+    title: "Economics",
+    description: "-",
+  },
+  {
+    id: 9,
+    date: "June 2027",
+    title: "Leaving Certificate",
+    description: "-",
+  },
 ];
